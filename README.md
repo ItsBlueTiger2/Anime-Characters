@@ -1,4 +1,4 @@
-# Anime characters scraper
+# Anime Characters Scraper
 
 This scrapes all the characters from all the anime, and writes it to a text file (one character per line)
 
