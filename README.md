@@ -22,3 +22,4 @@ I am not responsible for any illegal use.
 
 - [ ] Multithreading
 - [ ] Proxies-compatible
+- [ ] Random User-Agents
