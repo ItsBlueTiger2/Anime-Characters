@@ -17,3 +17,8 @@ pip3 install -r requirements.txt
 Educational purposes only.
 
 I am not responsible for any illegal use.
+
+# Improvements
+
+- [ ] Multithreading
+- [ ] Proxies-compatible
