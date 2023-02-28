@@ -12,14 +12,16 @@ Use this command to install dependencies.
 
 pip3 install -r requirements.txt
 
+# Improvements
+
+- [ ] Multithreading
+- [ ] Proxies-compatible
+- [ ] Random User-Agents
+
 # Legal
 
 Educational purposes only.
 
 I am not responsible for any illegal use.
 
-# Improvements
 
-- [ ] Multithreading
-- [ ] Proxies-compatible
-- [ ] Random User-Agents
