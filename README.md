@@ -23,5 +23,6 @@ pip3 install -r requirements.txt
 Educational purposes only.
 
 I am not responsible for any illegal use.
+I'm saying this because I'm not sure if the website allows us to scrape it.
 
 
